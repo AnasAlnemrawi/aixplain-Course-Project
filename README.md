@@ -1,2 +1,2 @@
-# aixplain-Course-Project
-aixplain Course Project
+# Policy Navigator Agent
+Policy Navigator Agent
